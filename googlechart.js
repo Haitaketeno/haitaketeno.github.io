@@ -3,7 +3,7 @@ google.charts.setOnLoadCallback(drawChart);
 
 function drawChart() {
 var data = google.visualization.arrayToDataTable([
-  ['Event', 'Person 1', 'Person 2', 'Point of no return'],
+  ['event', 'person one', 'person two', 'point of no return'],
   ['start of unlucky run',  480,      520,		0],
   ['continuing decline',  180,      220,		0],
   ['we\'ve hit the bottom',  -20,      20,		0],
@@ -16,7 +16,10 @@ var options = {
   title: 'gambler\'s ruin',
   curveType: 'function',
   legend: { position: 'bottom' },
-  series: { 2: { color: 'grey', lineDashStyle: [2,2]} },
+  series: { 0:{color: '#B61219'},
+			1:{color: 'dimgrey'},
+			2:{ color: 'grey', lineDashStyle: [2,2]} 
+			},
   vAxis: {
     gridlines: {
         color: 'transparent'
