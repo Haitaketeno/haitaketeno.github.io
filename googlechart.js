@@ -37,6 +37,7 @@ var options = {
 };
 
 var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
-
-chart.draw(data, options);
+    chart.draw(data, options);
 }
+
+window.onresize = drawChart;
