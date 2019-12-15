@@ -7,9 +7,9 @@ var data = google.visualization.arrayToDataTable([
   ['start of unlucky run',  480,      520,		0],
   ['continuing decline',  180,      220,		0],
   ['we\'ve hit the bottom',  -20,      20,		0],
-  ['recovery, but not for all',  -50,      280,		0],
+  ['recovery, but not for all',  -50,      240,		0],
   ['more ups & downs',  -50,      130,		0],
-  ['one can thrive again, the other is fucked',  -50,      480,		0]
+  ['one can thrive again, the other is fucked',  -50,      380,		0]
 ]);
 
 var options = {
