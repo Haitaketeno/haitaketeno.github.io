@@ -1,0 +1,16 @@
+Twitter disaster anlysis neural network resources:
+
+Build your own neural network in python from scratch:
+https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6
+
+Classifying tweets with keras and tensorflow:
+https://vgpena.github.io/classifying-tweets-with-keras-and-tensorflow/
+
+Working with twitter data in python:
+https://towardsdatascience.com/extracting-twitter-data-pre-processing-and-sentiment-analysis-using-python-3-0-7192bd8b47cf
+
+Installing tweet-preprocessor:
+https://github.com/s/preprocessor/issues/16
+
+Disaster tweets getting started with cleaning and building a model:
+https://www.kaggle.com/shahules/basic-eda-cleaning-and-glove
