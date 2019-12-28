@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kaggle-tweets",
+  "private_key_id": "1d450c9623766756bf4cfb431fb06f92483738e7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/UDhBZ274UhDr\ndWDdi0o14fYXQYoBuAGFuuB+vp6n9cAFrWCydr9m2V7GQbbQNmSDjrhx5cwRfY10\nYMCYoa7LhJvvGzjL0HYB3JU37dkbliJnaV9ntG6Oz1fYjM7U0nzAV70DeCtHf73E\ncQfE4GlSKTUVxeAROktEjpOFX20dhpMGNyzKnTsADJr3EjfqY64Z8gYtm4BCWDaW\nbpiOqITWKvd29y4Z2VgwP7EHALHPSlkD+ijaHuW827mO7P3lozpifgEhS22tRRuJ\n3/hAeT3Gw3VyNiuiTvhVWnKUcBUy1G9VYMB7gAXSKz/lLx/agqKHV6sF7pLf/XYw\nk/DS+dopAgMBAAECggEABT4BsUgavjRDJAKOazpWfUa8wgB2SMEFzf1pNUvhnXpX\nnvLe42ZV17p/1R378DViAx6sFEHkLzwB84+1o1ELMObds3tLBCmz3BidtZ+UtgOY\nMSjN4pHLAD/d+Tr1gsHQRYskl0sJtjmMZdePi2Vh+Wx+jgMjAPHYb2Talbpf9exm\ni18Gven8ReO4PPi/3D6gXIpcmhRbl3nNOccWEWVJA+4v3xm83zllAaJ2s6byFdh7\n47MPyTRGHtTwkMW4WFFhm/D3wkWS3NoBTlPxgk7JMlaYpcOc/ENFDewWDtHd1owP\n1iZ9q+cFFDz4MG6gftb5KTk94qaUUJkekZHC7yvSwQKBgQDwknCPXhfQaSR7O638\nWHHvhAmzkORrP9RftaTIavs+aV/qSGi0OSBBIRxigvvDZZ5S0Jtesl5rQiZf1pSg\nyi3Yb0pciBxChq4K4jYn4dGZzpN6EzP1+lcG2laBUV0FpHGJoNWCBlXHA39wmO4X\nMQGhC4AS3G8EO+YrAVOXv7Z0aQKBgQDLlRUIt6Ih6PFJ6DcSjniukNzMB8MlKoRb\na203Lg0Gk66WIXq01HeBY7aXAaky2G1/eLBc+rCaQQ9UWx1e3bAXGp0BKPOb0+iv\ncaoiWdNHmX0i3HApWskucvh+SV0VfxZ2aRFLmZEN5E2OJvLSoF95tpCs4K/n/3wA\n0ia0i8x/wQKBgQCtmE5G9hPjHOvpTQBYdo4I0tOZUrWxOocKZW25/ZC80ZcX3RZI\n7mv682SjJXd84Ugk5EkpRTbi2QIN6C6p9Bqu8mfLa6BQ1RSj3+ZKUyZHgYxj65V0\nKyg/VrBTcp3YY3hWYsuOnvmouTptyr0L2R4e0sihU5V8jaiiYburZfjH+QKBgHXj\nCGEZ5Rr5xu9jNrDaK2v6msDTJd+ZtTczB/VSB1ztm8V38ZRRDDqywQLEhXPZ+946\nxvWwfR912Sih8moCuXtHf+8yBY8QsMcXbMujdEMb0GileZWY6rKpBNgsJ2jRRPKg\neNFsRaDjuT09tJLfJypV24UgPvx65xWam6sk4PCBAoGAZm5WQfyu01tGJ55Mj7Hi\nPnDkYqgL5T+VuxcVV9zVhmQOxn3TPPwARXhmkFTe+WukBJXvUF47NTsYyipG8VgH\nGkI5fJAQz7GalweDYwd9f8/obgtwlKFCYNrbcCAzkL2vnsf3V6rUoPXs8vETIF2v\n+9BpCsZBzbioosFQIGjnI2Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chardo@kaggle-tweets.iam.gserviceaccount.com",
+  "client_id": "102966205200029729874",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chardo%40kaggle-tweets.iam.gserviceaccount.com"
+}
