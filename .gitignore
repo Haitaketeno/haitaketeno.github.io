@@ -1,2 +1,5 @@
 
 DisasterTweets/Kaggle Tweets-1d450c962376.json
+*.csv
+*.pth
+*.pkl
